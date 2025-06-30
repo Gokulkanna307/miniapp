@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: gokulkanna307/miniapp:ci-test
+          tags: gokulkanna307/miniapp:latest
